@@ -8,7 +8,8 @@ const Projects = () => {
       tech: ["React", "TypeScript", "Vite", "React Router", "PDF.js(pdfjs-dist)", "Puter AI", "Tailwind CSS", "Zustand", "KV storage"],
       github: "https://github.com/chaitanyasravanthi-marpina/ai_resume_analyser",
       live: "https://puter.com/app/ai-resume-analyser-20",
-      featured: true
+      featured: true,
+      icon: ExternalLink
     },
 
     {
@@ -18,6 +19,15 @@ const Projects = () => {
       tech: ["Python", "Flask", "html", "css", "Gemini api"],
       github: "https://github.com/chaitanyasravanthi-marpina/dsa_hint_assistant",
       live: "https://dsa-hint-assistant.onrender.com",
+      featured: true,
+      icon: ExternalLink
+    },
+    {
+      title: "MERN Notes Apllication",
+      description:  "Built and deployed a full stack Notes app using MERN stack with JWT authentication, dark mode, and complete note management system.",
+      tech: ["React","Vite","React Router","axios","Context API", "Node.js", "Express.js", "MongoDB", "JWT", "Mongoose","bcrypts","CORS"],
+      github: "https://github.com/chaitanyasravanthi-marpina/notes-app.git",
+      live: "https://notesappap.netlify.app",
       featured: true,
       icon: ExternalLink
     }
