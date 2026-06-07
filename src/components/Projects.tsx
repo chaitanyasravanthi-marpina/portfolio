@@ -37,7 +37,7 @@ const Projects = () => {
       tech: ["React", "Node.js","Express.js", "MongoDB","Socket.io","Groq API","Tailwind CSS","Axios","React Quill"],
       github: "https://github.com/chaitanyasravanthi-marpina/ai-powered-team-collabration-platform",
       live: "https://ai-powered-team-collabration-platfo.vercel.app",
-      features: true,
+      featured: true,
       icon: ExternalLink
     }
   ];
