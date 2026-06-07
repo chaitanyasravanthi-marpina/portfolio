@@ -30,6 +30,15 @@ const Projects = () => {
       live: "https://notesappap.netlify.app",
       featured: true,
       icon: ExternalLink
+    },
+    {
+      title: "AI-Powered Team Collaboration Platform",
+      description:"A full-stack real-time web application where teams can chat, collabarate on notes, and get AI assistance — all in one place.",
+      tech: ["React", "Node.js","Express.js", "MongoDB","Socket.io","Groq API","Tailwind CSS","Axios","React Quill"],
+      github: "https://github.com/chaitanyasravanthi-marpina/ai-powered-team-collabration-platform",
+      live: "https://ai-powered-team-collabration-platfo.vercel.app",
+      features: true,
+      icon: ExternalLink
     }
   ];
 
